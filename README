@@ -8,6 +8,8 @@ In the menu use the arrows to change the game and the keyboard to select your na
 Press SPACE to switch between the menu and the game.
 In game use the arrows to move.
 
-Usage : ./arcade lib/arcade_sfml.so || ./arcade lib/arcade_sdl2.so || ./arcade lib/arcade_ncurses.so
+Make and use this ./arcade lib/arcade_sfml.so or
+             this ./arcade lib/arcade_sdl2.so or
+             this ./arcade lib/arcade_ncurses.so
 
 ![image](https://raw.github.com/L0rentz/Arcade/master/examples/example1.gif)
