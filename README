@@ -10,4 +10,4 @@ In game use the arrows to move.
 
 Usage : ./arcade lib/arcade_sfml.so || ./arcade lib/arcade_sdl2.so || ./arcade lib/arcade_ncurses.so
 
-![gif](https://raw.github.com/L0rentz/Pindur/master/examples/example1.gif)  
+![gif](https://raw.github.com/L0rentz/Arcade/master/examples/example1.gif)  
