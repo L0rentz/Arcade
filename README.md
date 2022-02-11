@@ -1,6 +1,6 @@
 School project where the goal was to be able to change game or graphical library while playing.  
 
-<img src="https://raw.github.com/L0rentz/Arcade/master/examples/example1.gif" width="600" height="296"/>  
+<img src="https://raw.github.com/L0rentz/Arcade/master/examples/example1.gif"/>  
 
 You need to have the SDL2, SFML and NCURSES.  
   
