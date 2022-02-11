@@ -12,4 +12,4 @@ Make and use this ./arcade lib/arcade_sfml.so or
              this ./arcade lib/arcade_sdl2.so or
              this ./arcade lib/arcade_ncurses.so
 
-<img src="https://raw.github.com/L0rentz/Arcade/master/examples/example1.png" width="600" height="296"/>  
+<img src="https://raw.github.com/L0rentz/Arcade/master/examples/example1.gif" width="600" height="296"/>  
